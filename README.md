@@ -1,6 +1,6 @@
 # deij-ai-skills
 
-Small, practical skills for AI agents (OpenClaw and other AgentSkills-compatible tools). Each folder is one skill with a single `SKILL.md`.
+Small, practical AI skills you just may have not thought about... Each folder is one skill with a single `SKILL.md`.
 
 ## Skills
 
